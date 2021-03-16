@@ -3,6 +3,8 @@
 @import "~slick-carousel/slick/slick-theme";
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
+
+
 body {
   color: #fff;
   font-family: 'Montserrat', sans-serif;
@@ -23,8 +25,8 @@ button {
 }
 
 .slick-dots li button:before {
-  font-size: 60px;
-  line-height: 60px;
+  font-size: 20px;
+  line-height: 20px;
 }
 
 .slick-dots {
