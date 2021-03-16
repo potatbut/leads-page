@@ -25,7 +25,7 @@ module.exports = {
     new MiniCssExtractPlugin(),
     new CopyWebpackPlugin({
       patterns: [
-        { from: 'assets', to: outDir} ,
+        { from: 'assets', to: `${outDir}/assets`} ,
         { from: `${srcDir}/assets/favicon.ico`, to: 'favicon.ico'}
       ]
     }),

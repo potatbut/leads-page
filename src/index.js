@@ -11,4 +11,3 @@ $('.single-item').slick({
   arrows: false,
   speed: 2500,
 }) 
-

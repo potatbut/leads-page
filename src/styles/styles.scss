@@ -9,6 +9,10 @@ body {
   background-attachment: fixed;
 }
 
+.single-item {
+  height: 100vh;
+}
+
 button {
   padding: 0;
   border: none;
@@ -50,6 +54,23 @@ button {
     padding: 15px;
   }
 }
+.first {
+  background-image: url('../assets/hipster.svg');
+  background-color: #81b29a;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position-x: right;
+}
+
+.second {
+  background-image: url('../assets/cat.svg');
+  background-color: #3d405b;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position-x: right;
+  background-position-y: bottom;
+}
+
 .wrapper {
   height: 100vh;
   display: flex;
@@ -105,9 +126,3 @@ button {
   }
 }
 
-.first {
-  background-color: #81b29a;
-}
-.second {
-  background-color: #3d405b;
-}
