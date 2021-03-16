@@ -1,8 +1,8 @@
 # Leads - landing page
 
-** [Demo is available here :fa-check-square:](https://potatbut.github.io/leads-page/dist/ "DEMO")**
-**[Демо доступно по ссылке :fa-check-square: ](https://potatbut.github.io/leads-page/dist/ "Демо доступно по ссылке ")
-**
+[Demo is available here ](https://potatbut.github.io/leads-page/dist/ "DEMO")
+
+[Демо доступно по ссылке  ](https://potatbut.github.io/leads-page/dist/ "Демо доступно по ссылке ")
 #### Project setup / Установка
 ------------
 - git clone 
